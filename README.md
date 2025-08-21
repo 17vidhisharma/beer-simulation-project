@@ -1,12 +1,8 @@
 <div align="center">
 
-![Project Header](https://via.placeholder.com/1200x400/2d3748/ffffff?text=🍺+Craft+Beer+Business+Simulation)
+![Project Header](./project-header.png)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4FD1C7&center=true&vCenter=true&width=800&lines=Austin+Craft+Beer+Microbrewery+🍺;Breaks+Even+in+Just+9+Months+⚡;%244.3M+Median+Profit+Over+36+Months+💰;Data-Driven+Business+Optimization+📊;AD715%3A+Quantitative+Decision-Making+🎓" alt="Typing SVG" />
-
-### 🎯 **A data-driven business simulation project**
-**AD715: Quantitative & Qualitative Decision-Making**  
-**Boston University • Spring 2025**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4FD1C7&center=true&vCenter=true&width=900&lines=🍺+Austin+Craft+Beer+Microbrewery;⚡+Breaks+Even+in+Just+9+Months;💰+%244.3M+Median+Profit+Achievement;📊+Data-Driven+Business+Optimization;🎯+Quantitative+Decision-Making+Excellence;🏆+Boston+University+Spring+2025" alt="Typing SVG" />
 
 </div>
 
