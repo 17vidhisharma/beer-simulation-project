@@ -1,28 +1,39 @@
-# 🍺 Craft Beer Business Simulation 
 <div align="center">
 
-![Beer Animation](https://media.giphy.com/media/3o7TKwmnDgQb5jhy80/giphy.gif)
+![Project Header](https://via.placeholder.com/1200x400/2d3748/ffffff?text=🍺+Craft+Beer+Business+Simulation)
 
-**A data-driven business simulation project completed for**  
-**🎓 AD715: Quantitative & Qualitative Decision-Making at Boston University (Spring 2025)**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4FD1C7&center=true&vCenter=true&width=800&lines=Austin+Craft+Beer+Microbrewery+🍺;Breaks+Even+in+Just+9+Months+⚡;%244.3M+Median+Profit+Over+36+Months+💰;Data-Driven+Business+Optimization+📊;AD715%3A+Quantitative+Decision-Making+🎓" alt="Typing SVG" />
 
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Austin+Craft+Beer+Microbrewery;Breaks+Even+in+9+Months;%244.3M+Median+Profit;Data-Driven+Optimization" alt="Typing SVG" />
+### 🎯 **A data-driven business simulation project**
+**AD715: Quantitative & Qualitative Decision-Making**  
+**Boston University • Spring 2025**
 
 </div>
 
 ## 🚀 Executive Summary
 
 <div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🚀 SIMULATION RESULTS                                          │
+├─────────────────────────────────────────────────────────────────┤
+│  ⚡ Break-Even Timeline    │  💰 Median Net Profit              │
+│     9.08 months            │     $4.32M                          │
+├─────────────────────────────────────────────────────────────────┤
+│  📊 Contribution Margin   │  📅 Simulation Period               │
+│     $5.6M                  │     36 months                       │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Break--Even-9.08%20Months-success?style=for-the-badge&logo=trending-up&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Median%20Profit-%244.32M-brightgreen?style=for-the-badge&logo=dollar-sign&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Break--Even-9.08%20Months-4FD1C7?style=for-the-badge&logo=trending-up&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Median%20Profit-%244.32M-38D9A9?style=for-the-badge&logo=dollar-sign&logoColor=white"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Contribution%20Margin-%245.6M-orange?style=for-the-badge&logo=chart-line&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Simulation%20Period-36%20Months-blue?style=for-the-badge&logo=calendar&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Contribution%20Margin-%245.6M-F59E0B?style=for-the-badge&logo=chart-line&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Simulation%20Period-36%20Months-8B5CF6?style=for-the-badge&logo=calendar&logoColor=white"/></td>
 </tr>
 </table>
 </div>
@@ -115,13 +126,13 @@ Our team designed a **craft beer bar and microbrewery in Austin, Texas** 🌆, r
 <table>
 <tr>
 <td><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/Python-4FD1C7?style=for-the-badge&logo=python&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/R-38D9A9?style=for-the-badge&logo=r&logoColor=white"/></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Monte%20Carlo-FF6B35?style=for-the-badge&logo=chartdotjs&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/Tableau-F59E0B?style=for-the-badge&logo=tableau&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/SPSS-8B5CF6?style=for-the-badge&logo=ibm&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/Monte%20Carlo-EF4444?style=for-the-badge&logo=chartdotjs&logoColor=white"/></td>
 </tr>
 </table>
 </div>
@@ -152,9 +163,11 @@ graph TD
     H[⚡ Key Activities] --> A
     H --> B
     
-    style E fill:#f9f,stroke:#333,stroke-width:4px
-    style A fill:#bbf,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style E fill:#4FD1C7,stroke:#38D9A9,stroke-width:4px,color:#000
+    style A fill:#8B5CF6,stroke:#7C3AED,stroke-width:2px
+    style B fill:#F59E0B,stroke:#D97706,stroke-width:2px
+    style C fill:#EF4444,stroke:#DC2626,stroke-width:2px
+    style D fill:#38D9A9,stroke:#10B981,stroke-width:2px
 ```
 
 </div>
